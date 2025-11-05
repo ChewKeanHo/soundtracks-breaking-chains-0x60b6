@@ -1,19 +1,26 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Breaking Chains 0x60B6 | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+Before we begin a brand new year, let's spice up the spirit and may you have
+a great year ahead! Here is a perfect soundtrack for you. It is another attempt
+to combine dance vocal and video making background music.
 
 ```
-#electronicmusic #soundtrack
+#soundtrack #electronicpop #longing #passionate #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/06_Breaking-Chains-0x60B6.mp3
+  Size: 11094016        Blocks: 21672      IO Block: 4096   regular file
+Access: 2025-11-05 08:17:01.381532100 +0800
+Modify: 2025-11-05 08:16:45.237453544 +0800
+Change: 2025-11-05 08:16:45.237453544 +0800
+ Birth: 2025-07-20 11:07:26.547821414 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-08-06
+On YouTube since : 2026-01-10
 ```
 
-[YouTube](#)
+[YouTube](https://www.youtube.com/watch?v=o-8sCzBZ674)
 
 * [Agreed GIMP License](.internals/terms-of-services/GimpORG_License.pdf)
 * [Agreed GIMP Privacy Policy](.internals/privacy-policy/GimpORG-Privacy-Policy.pdf)
@@ -46,9 +53,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Breaking Chains 0x60B6
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-breaking-chains-0x60b6
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
