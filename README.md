@@ -11,7 +11,7 @@ to combine dance vocal and video making background music.
 
   File: Audios/06_Breaking-Chains-0x60B6.mp3
   Size: 11094016        Blocks: 21672      IO Block: 4096   regular file
-Access: 2025-11-06 15:14:16.952762710 +0800
+Access: 2025-11-16 12:56:14.154475371 +0800
 Modify: 2025-11-06 15:11:07.831891286 +0800
 Change: 2025-11-06 15:11:07.831891286 +0800
  Birth: 2025-07-20 11:07:26.547821414 +0800
@@ -33,6 +33,7 @@ On YouTube since : 2026-01-10
 * [Agreed OBS Waveform License](.internals/terms-of-services/OBS_Waveform_LICENSE.txt)
 * [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf)
 * [Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+* [20251030 UDIO Severances](https://github.com/ChewKeanHo/press-20251030-severances-from-udio)
 
 
 
@@ -53,11 +54,14 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : Breaking Chains 0x60B6
-Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-breaking-chains-0x60b6
-License: (Holloway) Chew, Kean Ho's Proprietary License
-Procure: Coming Soon
+Title: Breaking Chains 0x60B6
+Creators: (Holloway) Chew, Kean Ho + UDIO
+Contact: hello@hollowaykeanho.com
+SKU: chewkeanho-soundtracks-breaking-chains-0x60b6
+License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
+Made On: 2025-08-06 (before 2025-10-30 terms of service changes)
+Made From: https://www.udio.com/
+Procure: https://github.com/ChewKeanHo/soundtracks-breaking-chains-0x60b6
 --------------------------------------------------------------------------------
 ```
 
